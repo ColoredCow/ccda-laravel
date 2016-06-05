@@ -6,7 +6,7 @@
         "name": "pankaj Agrawal",
         "email": "pankaj@coloredcow.in"
     }],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
