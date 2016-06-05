@@ -1,0 +1,22 @@
+{
+    "name": "Coloredcow/laravelccda",
+    "description": "C-CDA for Laravel",
+    "license": "MIT",
+    "authors": [{
+        "name": "pankaj Agrawal",
+        "email": "pankaj@coloredcow.in"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "laravelccda\\": "src/"
+        }
+    },
+
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.3.x-dev"
+        }
+    }
+}
