@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Requests;
-use App\Services\CCDAService;
+use laravelccda\Services\CCDAService;
 
 class CCDAController extends Controller
 {
