@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 vendor/
 node_modules/
 
@@ -12,3 +13,6 @@ storage/
 .env.php
 .env
 .env.example
+=======
+vendor/
+>>>>>>> 7fe5971bc9f54ac5ebbebd13c617822f4f206d3a
